@@ -1,2 +1,2 @@
 # Class-X
-First Prototype
+Main Class repo page
